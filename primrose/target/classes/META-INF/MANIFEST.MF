@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: primrose
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: evanpthompson
+Implementation-Vendor-Id: com.primrose
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/prim/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
